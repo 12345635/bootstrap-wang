@@ -1,0 +1,11 @@
+.text{
+    color:aqua;
+    font-size: 100px;
+    font-weight: bold;
+}
+#inp{
+    display: block;
+    list-style: none;
+    width: 400px;
+    height: 36px;
+}
